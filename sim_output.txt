@@ -1,0 +1,2 @@
+VCD info: dumpfile gps.vcd opened for output.
+_tb_gps_connected.v:117: $finish called at 11000100000 (1ps)
